@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Aman!
 An aspiring AI & Machine Learning Engineer currently upskilling through the **iHUB IIT Roorkee & Intellipaat AI & Data Science Program**.
 
+## 🔗 Connect With Me
+[![LinkedIn](https://shields.io)](YOUR_LINKEDIN_PROFILE_URL)
+[![Email](https://shields.io)](mailto:YOUR_EMAIL_ADDRESS@gmail.com)
+
 ## 🚀 About Me
 - 🔭 **Current Focus:** Learning Core Python, Advanced SQL, and Applied Machine Learning.
 - 🎯 **Future Goals:** Pursuing B.Tech in AI/ML next year and aiming for Techno-Functional Leadership.
