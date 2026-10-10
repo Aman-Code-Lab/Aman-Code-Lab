@@ -2,7 +2,8 @@
 An aspiring AI & Machine Learning Engineer currently upskilling through the **iHUB IIT Roorkee & Intellipaat AI & Data Science Program**.
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://shields.io)](https://aman-tripathi-aa59www.linkedin.com/in/60435)
+[![LinkedIn](https://shields.io)](www.linkedin.com/in/
+aman-tripathi-aa5960435)
 [![Email](https://shields.io)](amntripathi404@gmail.com)
 
 ## 🚀 About Me
