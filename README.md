@@ -5,8 +5,8 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
 <p align="left">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" />
-</a>
-  <a href="mailto:amntripathi404@gmail.com">
+</a>      
+        <a href="mailto:amntripathi404@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50" alt="Email"/>
   </a>
   &nbsp;&nbsp;
