@@ -10,7 +10,7 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="amntripathi404@gmail.com">
+  <a href="mailto:amntripathi404@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
   </a>
   &nbsp;&nbsp;
@@ -18,7 +18,7 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/9214221981/">
+  <a href="https://wa.me/919214221981">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" height="45" alt="WhatsApp"/>
   </a>
   &nbsp;&nbsp;
@@ -26,6 +26,8 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" alt="GitHub"/>
   </a>
 </p>
+
+---
 
 ## 🚀 About Me
 - 🔭 **Current Focus:** Learning Core Python, Advanced SQL, and Applied Machine Learning.
