@@ -35,37 +35,37 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
 </p>
 
 ## ABOUT ME
-<!-- 🚀 3D Animated Moving About Me Section -->
-<section id="about-me">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="34" height="34" style="vertical-align: middle;" />
-    <b>About Me</b>
-  </h2>
+<h3>🚀 About Me</h3>
 
-  <p>
-    Hey there! I'm <strong>Aman</strong> — an aspiring <strong>AI & Machine Learning Engineer</strong> on a mission to build scalable data pipelines and practical ML systems. Currently upskilling through <strong>iHUB IIT Roorkee & Intellipaat</strong>[span_0](start_span)[span_0](end_span).
-  </p>
-
-  <ul>
-    <li>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Moving Telescope" width="24" height="24" style="vertical-align: middle;" />
-      <strong>Current Focus:</strong> Learning Core Python, Advanced SQL, and Applied Machine Learning[span_1](start_span)[span_1](end_span).
-    </li>
-    <li>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Moving Laptop" width="24" height="24" style="vertical-align: middle;" />
-      <strong>What I Build:</strong> Predictive models, automated data workflows, and optimized query architectures.
-    </li>
-    <li>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Moving Target" width="24" height="24" style="vertical-align: middle;" />
-      <strong>Roadmap:</strong> Pursuing B.Tech in AI/ML next year and aiming for Techno-Functional Leadership[span_2](start_span)[span_2](end_span).
-    </li>
-    <li>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Moving Handshake" width="24" height="24" style="vertical-align: middle;" />
-      <strong>Collaboration:</strong> Open to collaborating on open-source machine learning repos and data engineering tasks.
-    </li>
-  </ul>
-</section>
-
+<table>
+  <tr>
+    <td width="50" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Robot.png" width="35" />
+    </td>
+    <td>
+      <b>Current Focus</b><br/>
+      🐍 Learning Core Python, Advanced SQL, and Applied Machine Learning.
+    </td>
+  </tr>
+  <tr>
+    <td width="50" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" />
+    </td>
+    <td>
+      <b>Roadmap</b><br/>
+      📊 Data Wrangling ➔ 🤖 Machine Learning ➔ 🧠 Deep Learning & Model Deployment.
+    </td>
+  </tr>
+  <tr>
+    <td width="50" align="center">
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Glowing%20Star.png" width="35" />
+    </td>
+    <td>
+      <b>Future Goals</b><br/>
+      🎓 Pursuing B.Tech in AI/ML next year and aiming for Techno-Functional Leadership.
+    </td>
+  </tr>
+</table>
 
 <section id="technical-skills">
   <h2>🛠️ Technical Skills & Tools</h2>
