@@ -26,6 +26,7 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
     <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" alt="GitHub"/>
   </a>
 </p>
+
 ## 🚀 About Me
 - 🔭 **Current Focus:** Learning Core Python, Advanced SQL, and Applied Machine Learning.
 - 🎯 **Future Goals:** Pursuing B.Tech in AI/ML next year and aiming for Techno-Functional Leadership.
