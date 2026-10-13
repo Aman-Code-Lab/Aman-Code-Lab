@@ -26,34 +26,150 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
 
 ## ABOUT ME
 
+<!-- 👋 Hi, I'm Aman! -->
 <table>
   <tr>
-    <!-- बायाँ हिस्सा (Details) -->
-    <td width="65%" valign="top">
+    <td width="70%" valign="top">
       <h2>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30" height="30" style="vertical-align: middle;" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" height="35" style="vertical-align: middle;" />
         Hi, I'm Aman!
       </h2>
       <p>
-        An aspiring <strong>AI & Machine Learning Engineer</strong> on a mission to build intelligent systems and wrangle datasets. Currently leveling up my skills through the <strong>iHUB IIT Roorkee & Intellipaat</strong> program.
+        An aspiring <strong>AI & Machine Learning Engineer</strong> currently upskilling through the 
+        <strong>iHUB IIT Roorkee & Intellipaat AI & Data Science Program</strong>.
       </p>
       <ul>
-        <li>🚀 <strong>Focus:</strong> Core Python, Advanced SQL, and Applied Machine Learning.</li>
-        <li>🎯 <strong>Goal:</strong> B.Tech in AI/ML next year & Techno-Functional Leadership.</li>
-        <li>💡 <strong>Mindset:</strong> Turning complex code into real-world AI projects.</li>
-        <li>🤝 <strong>Collaboration:</strong> Open to working on machine learning datasets and open-source tools.</li>
+        <li>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" style="vertical-align: middle;" /> 
+          <strong>Current Focus:</strong> Learning Core Python, Advanced SQL, and Applied Machine Learning.
+        </li>
+        <li>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="20" height="20" style="vertical-align: middle;" /> 
+          <strong>Future Goals:</strong> Pursuing B.Tech in AI/ML next year and aiming for Techno-Functional Leadership.
+        </li>
       </ul>
     </td>
-
-    <!-- दायाँ हिस्सा (Your Pic) -->
-    <td width="35%" align="center" valign="middle">
-      <div style="border-radius: 50%; overflow: hidden; width: 180px; height: 180px; border: 4px solid #6366f1; box-shadow: 0 10px 25px rgba(99, 102, 241, 0.4);">
-        <img src="https://your-image-url-here.jpg" alt="Aman" width="100%" height="100%" style="object-fit: cover;" />
+    <td width="30%" align="center" valign="middle">
+      <!-- 3D Avtar (आप यहाँ अपनी असली Pic का 3D version या Cartoon भी डाल सकते हैं) -->
+      <div style="border-radius: 50%; overflow: hidden; width: 140px; height: 140px; border: 4px solid #6366f1; box-shadow: 0 8px 24px rgba(99, 102, 241, 0.4);">
+        <img src="https://i.ibb.co/vzP6Z0t/3d-boy-coder.png" alt="Aman 3D Avatar" width="100%" height="100%" style="object-fit: cover;" onerror="this.src='https://raw.githubusercontent.com/gist/scottydocs/150b077a988d55ff22e92c30f40d5885/raw/dev-3d.gif'"/>
       </div>
     </td>
   </tr>
 </table>
 
+<br/>
+
+<!-- 🔗 Connect With Me -->
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" style="vertical-align: middle;" /> 
+  Connect With Me
+</h3>
+<p>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="YOUR_WHATSAPP_URL"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://github.com/Aman-Code-Lab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<br/>
+
+<!-- 🛠️ Technical Skills -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" style="vertical-align: middle;" /> 
+  Technical Skills
+</h2>
+
+<h3>Programming & Query Languages</h3>
+<ul>
+  <li>
+    <img src="https://img.shields.io/badge/Python_🐍-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
+    — AI, Machine Learning, and Data Science.
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/SQL_🗄️-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> 
+    — Databases and data management.
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/R_📊-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /> 
+    <em>(Possibly not included)</em> — Used for statistical analysis; not confirmed in your program.
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Web_Basics_🌐-F7DF1E?style=for-the-badge&logo=html5&logoColor=black" alt="HTML/CSS/JS" /> 
+    <em>(HTML, CSS, JavaScript)</em> — Not confirmed, but used for web development.
+  </li>
+</ul>
+
+<h3>AI, Data Science & Libraries</h3>
+<blockquote>
+  <p>💡 <em>Bro, in AI & Data Science, you'll likely use these Python libraries depending on your iHUB IIT Roorkee syllabus:</em></p>
+</blockquote>
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+</p>
+
+<h3>Developer Tools & Environments</h3>
+<ul>
+  <li>
+    <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> 
+    — Writing and running Python code.
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" /> 
+    — Running AI/ML code online.
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" /> 
+    — Coding and development.
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> 
+    — Database management using SQL.
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Git_&_GitHub-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git & GitHub" /> 
+    — Version control and project hosting.
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Power_BI_/_Tableau-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="BI Tools" /> 
+    — Data visualization and dashboards.
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /> 
+    — Practising data science and finding datasets.
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" /> 
+    — Basic data analysis.
+  </li>
+  <li>
+    <img src="https://img.shields.io/badge/Linux_/_Terminal-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> 
+    — Running commands and managing development environments.
+  </li>
+</ul>
+
+<br/>
+
+<!-- 📂 Key Projects -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Projects" width="30" height="30" style="vertical-align: middle;" /> 
+  Key Projects
+</h2>
+<p><em>(As I build projects in my course, I will list them here)</em></p>
+<ul>
+  <li>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hourglass%20Not%20Done.png" alt="Hourglass" width="20" height="20" style="vertical-align: middle;" /> 
+    Project 1 coming soon...
+  </li>
+</ul>
 
 
 <section id="technical-skills">
