@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Aman!
 An aspiring AI & Machine Learning Engineer currently upskilling through the **iHUB IIT Roorkee & Intellipaat AI & Data Science Program**.
 
-## 🔗 Connect With me 
-
 <h2 align="left">🔗 Connect With Me</h2>
 
 <p align="left">
