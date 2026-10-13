@@ -23,10 +23,22 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
     <img src="https://cdn.simpleicons.org/github/000000/FFFFFF" width="50" height="50" alt="GitHub"/>
   </a>
 </p>
+<section id="about-me">
+  <h2>🚀 About Me</h2>
+  <p>
+    I am an aspiring <strong>AI & Machine Learning Engineer</strong> currently upskilling through the 
+    <strong>iHUB IIT Roorkee & Intellipaat</strong> AI & Data Science program. I focus on building robust data analysis pipelines, 
+    relational database systems, and practical machine learning solutions.
+  </p>
 
-## 🚀 About Me
-- 🔭 **Current Focus:** Learning Core Python, Advanced SQL, and Applied Machine Learning.
-- 🎯 **Future Goals:** Pursuing B.Tech in AI/ML next year and aiming for Techno-Functional Leadership.
+  <ul>
+    <li>🔭 <strong>Current Focus:</strong> Core Python, Advanced SQL, EDA, and Applied Machine Learning algorithms.</li>
+    <li>🛠️ <strong>Building & Experimenting:</strong> Data preprocessing pipelines, predictive models, and database schemas.</li>
+    <li>🎯 <strong>Future Goals:</strong> Pursuing B.Tech in AI/ML and aiming for techno-functional leadership roles.</li>
+    <li>💬 <strong>Ask Me About:</strong> Python programming, database querying, and machine learning fundamentals.</li>
+    <li>📫 <strong>Let's Connect:</strong> Reach out via LinkedIn or GitHub to discuss AI, open-source work, or tech projects.</li>
+  </ul>
+</section>
 
 <section id="technical-skills">
   <h2>🛠️ Technical Skills & Tools</h2>
