@@ -36,54 +36,6 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
 
 ## ABOUT ME
 
-<!-- 👋 Hi, I'm Aman! -->
-<table>
-  <tr>
-    <td width="70%" valign="top">
-      <h2>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" height="35" style="vertical-align: middle;" />
-        Hi, I'm Aman!
-      </h2>
-      <p>
-        An aspiring <strong>AI & Machine Learning Engineer</strong> currently upskilling through the 
-        <strong>iHUB IIT Roorkee & Intellipaat AI & Data Science Program</strong>.
-      </p>
-      <ul>
-        <li>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="20" height="20" style="vertical-align: middle;" /> 
-          <strong>Current Focus:</strong> Learning Core Python, Advanced SQL, and Applied Machine Learning.
-        </li>
-        <li>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="20" height="20" style="vertical-align: middle;" /> 
-          <strong>Future Goals:</strong> Pursuing B.Tech in AI/ML next year and aiming for Techno-Functional Leadership.
-        </li>
-      </ul>
-    </td>
-    <td width="30%" align="center" valign="middle">
-      <!-- 3D Avtar (आप यहाँ अपनी असली Pic का 3D version या Cartoon भी डाल सकते हैं) -->
-      <div style="border-radius: 50%; overflow: hidden; width: 140px; height: 140px; border: 4px solid #6366f1; box-shadow: 0 8px 24px rgba(99, 102, 241, 0.4);">
-        <img src="https://i.ibb.co/vzP6Z0t/3d-boy-coder.png" alt="Aman 3D Avatar" width="100%" height="100%" style="object-fit: cover;" onerror="this.src='https://raw.githubusercontent.com/gist/scottydocs/150b077a988d55ff22e92c30f40d5885/raw/dev-3d.gif'"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- 🔗 Connect With Me -->
-<h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="25" height="25" style="vertical-align: middle;" /> 
-  Connect With Me
-</h3>
-<p>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="YOUR_WHATSAPP_URL"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://github.com/Aman-Code-Lab"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
-
-<br/>
 
 <!-- 🛠️ Technical Skills -->
 <h2>
