@@ -5,7 +5,7 @@
       <h2>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" height="35" style="vertical-align: middle;" />
         Hi, I'm Aman!
-      </h2>
+      </h2><img src="https://github.com/user-attachments/assets/ffefd309-eb2e-4330-9b55-ba5b959a8042" width="34" height="34" style="border-radius: 50%; vertical-align: middle;">
 
 
 An aspiring AI & Machine Learning Engineer currently upskilling through the **iHUB IIT Roorkee & Intellipaat AI & Data Science Program**.
@@ -290,4 +290,3 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
 <p align="left">
   💡 <b>Currently learning. Building consistently. Improving every day.</b>
 </p>
-<h1>👋 Hi, I'm Aman! <img src="https://github.com/user-attachments/assets/ffefd309-eb2e-4330-9b55-ba5b959a8042" width="34" height="34" style="border-radius: 50%; vertical-align: middle;"></h1>
