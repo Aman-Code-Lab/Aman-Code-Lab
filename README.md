@@ -2,23 +2,28 @@
 An aspiring AI & Machine Learning Engineer currently upskilling through the **iHUB IIT Roorkee & Intellipaat AI & Data Science Program**.
 
 <h2 align="left">🔗 Connect With Me</h2>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/aman-tripathi-aa5960435">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:amntripathi404@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50" alt="Email"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/_is.that.aman_/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" height="50" alt="Instagram"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://wa.me/919214221981">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="50" height="50" alt="WhatsApp"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Aman-Code-Lab">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" height="50" alt="GitHub"/>
   </a>
-</p>--
+</p>
 
 ## 🚀 About Me
 - 🔭 **Current Focus:** Learning Core Python, Advanced SQL, and Applied Machine Learning.
