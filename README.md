@@ -24,21 +24,28 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
   </a>
 </p>
 <section id="about-me">
-  <h2>🚀 About Me</h2>
+<section id="about-me">
+  <h2>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="36" height="36" style="vertical-align: middle;" />
+    About Me
+  </h2>
+
   <p>
-    I am an aspiring <strong>AI & Machine Learning Engineer</strong> currently upskilling through the 
-    <strong>iHUB IIT Roorkee & Intellipaat</strong> AI & Data Science program. I focus on building robust data analysis pipelines, 
-    relational database systems, and practical machine learning solutions.
+    Hey there! I'm <strong>Aman</strong> — an aspiring <strong>AI & Machine Learning Engineer</strong> on a mission to turn raw data into intelligent, scalable systems. Currently leveling up through <strong>iHUB IIT Roorkee & Intellipaat</strong>.
   </p>
 
-  <ul>
-    <li>🔭 <strong>Current Focus:</strong> Core Python, Advanced SQL, EDA, and Applied Machine Learning algorithms.</li>
-    <li>🛠️ <strong>Building & Experimenting:</strong> Data preprocessing pipelines, predictive models, and database schemas.</li>
-    <li>🎯 <strong>Future Goals:</strong> Pursuing B.Tech in AI/ML and aiming for techno-functional leadership roles.</li>
-    <li>💬 <strong>Ask Me About:</strong> Python programming, database querying, and machine learning fundamentals.</li>
-    <li>📫 <strong>Let's Connect:</strong> Reach out via LinkedIn or GitHub to discuss AI, open-source work, or tech projects.</li>
-  </ul>
+  <p>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="22" height="22" style="vertical-align: middle;" />
+    <strong>What I’m Building:</strong> Predictive models, statistical data pipelines, and optimized SQL schemas.<br>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="22" height="22" style="vertical-align: middle;" />
+    <strong>The Goal:</strong> Pursuing B.Tech in AI/ML and stepping into Techno-Functional Leadership.<br>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="22" height="22" style="vertical-align: middle;" />
+    <strong>Core DNA:</strong> Clean Python code, machine learning pipelines, and terminal workflows.<br>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="Handshake" width="22" height="22" style="vertical-align: middle;" />
+    <strong>Collabs:</strong> Open to collaborating on open-source ML algorithms and data challenges.
+  </p>
 </section>
+
 
 <section id="technical-skills">
   <h2>🛠️ Technical Skills & Tools</h2>
