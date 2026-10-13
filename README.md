@@ -1,4 +1,7 @@
-# 👋 Hi, I'm Aman!
+#       <h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-FluentEmojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" height="35" style="vertical-align:middle;"/>
+   Hi, I'm Aman!
+      </h2>
 An aspiring AI & Machine Learning Engineer currently upskilling through the **iHUB IIT Roorkee & Intellipaat AI & Data Science Program**.
 <h2 align="left">🔗 Connect With Me</h2>
 &nbsp;&nbsp;
