@@ -23,28 +23,8 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
     <img src="https://cdn.simpleicons.org/github/000000/FFFFFF" width="50" height="50" alt="GitHub"/>
   </a>
 </p>
-<section id="about-me">
-<section id="about-me">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="36" height="36" style="vertical-align: middle;" />
-    About Me
-  </h2>
 
-  <p>
-    Hey there! I'm <strong>Aman</strong> — an aspiring <strong>AI & Machine Learning Engineer</strong> on a mission to turn raw data into intelligent, scalable systems. Currently leveling up through <strong>iHUB IIT Roorkee & Intellipaat</strong>.
-  </p>
-
-  <p>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="22" height="22" style="vertical-align: middle;" />
-    <strong>What I’m Building:</strong> Predictive models, statistical data pipelines, and optimized SQL schemas.<br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="Target" width="22" height="22" style="vertical-align: middle;" />
-    <strong>The Goal:</strong> Pursuing B.Tech in AI/ML and stepping into Techno-Functional Leadership.<br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="22" height="22" style="vertical-align: middle;" />
-    <strong>Core DNA:</strong> Clean Python code, machine learning pipelines, and terminal workflows.<br>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="Handshake" width="22" height="22" style="vertical-align: middle;" />
-    <strong>Collabs:</strong> Open to collaborating on open-source ML algorithms and data challenges.
-  </p>
-</section>
+## ABOUT ME
 
 
 <section id="technical-skills">
