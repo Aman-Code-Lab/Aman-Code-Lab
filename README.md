@@ -2,10 +2,10 @@
 An aspiring AI & Machine Learning Engineer currently upskilling through the **iHUB IIT Roorkee & Intellipaat AI & Data Science Program**.
 
 ## 🔗 Connect With Me
-<a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
+<a href="" target="_blank">
   <img src="https://shields.io" style="border-radius: 50%; width: 45px; height: 45px; object-fit: cover; margin-right: 10px;" alt="LinkedIn" />
 </a>
-<a href="mailto:YOUR_EMAIL_ADDRESS@gmail.com">
+<a href="mailto:amntripathi404@gmail.com">
   <img src="https://shields.io" style="border-radius: 50%; width: 45px; height: 45px; object-fit: cover;" alt="Email" />
 </a>
 
