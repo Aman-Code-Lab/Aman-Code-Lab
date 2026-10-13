@@ -3,16 +3,18 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
 
 ## 🔗 Connect With me 
 
+
 <h1 align="left">🔗 Connect With Me</h1>
 
 <hr>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aman-tripathi-aa5960435" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/aman-tripathi-aa5960435">
+    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="60" height="60" alt="LinkedIn"/>
   </a>
+  &nbsp;&nbsp;
   <a href="amntripathi404@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="60" height="60" alt="Email"/>
   </a>
 </p>
 
