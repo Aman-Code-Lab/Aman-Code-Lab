@@ -3,10 +3,9 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
 <h2 align="left">🔗 Connect With Me</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aman-tripathi-aa5960435" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.simpleicons.org/linkedin?v=1" width="50" height="50" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
   <a href="mailto:amntripathi404@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50" alt="Email"/>
   </a>
