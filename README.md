@@ -143,62 +143,64 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
     </li>
   </ul>
 </section>
-<!-- 🏆 Microsoft Transact-SQL Certifications -->
-<h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="30" height="30" style="vertical-align: middle;" />
-  Microsoft Certified Achievements
-</h3>
+<!-- 📜 Certifications & Achievements -->
+<h2>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Scroll.png" alt="Certificate" width="30" height="30" style="vertical-align: middle;" />
+  Certifications & Achievements
+</h2>
 
-<ul>
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="24" height="24" style="vertical-align: middle;" />
-    <a href="https://learn.microsoft.com/en-us/users/amantripathi-9458/achievements" target="_blank">
-      <img src="https://img.shields.io/badge/T--SQL-Intro_to_Transact--SQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Intro to T-SQL" style="vertical-align: middle;" />
-    </a>
-    — <strong>Querying relational databases & syntax fundamentals.</strong>
-  </li>
+<p>
+  <img src="https://img.shields.io/badge/Microsoft_Learn-Verified_Certifications-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn" />
+</p>
 
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="24" height="24" style="vertical-align: middle;" />
-    <a href="https://learn.microsoft.com/en-us/users/amantripathi-9458/achievements" target="_blank">
-      <img src="https://img.shields.io/badge/T--SQL-Sort_&_Filter_Results-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Sort and Filter" style="vertical-align: middle;" />
-    </a>
-    — <strong>WHERE clauses, ORDER BY sorting, and result filtering.</strong>
-  </li>
-
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="24" height="24" style="vertical-align: middle;" />
-    <a href="https://learn.microsoft.com/en-us/users/amantripathi-9458/achievements" target="_blank">
-      <img src="https://img.shields.io/badge/T--SQL-Multiple_Table_JOINs-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="JOINs" style="vertical-align: middle;" />
-    </a>
-    — <strong>INNER, OUTER, CROSS, and self JOIN implementations.</strong>
-  </li>
-
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="24" height="24" style="vertical-align: middle;" />
-    <a href="https://learn.microsoft.com/en-us/users/amantripathi-9458/achievements" target="_blank">
-      <img src="https://img.shields.io/badge/T--SQL-Write_Subqueries-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Subqueries" style="vertical-align: middle;" />
-    </a>
-    — <strong>Scalar subqueries, correlated queries, and complex filters.</strong>
-  </li>
-
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="24" height="24" style="vertical-align: middle;" />
-    <a href="https://learn.microsoft.com/en-us/users/amantripathi-9458/achievements" target="_blank">
-      <img src="https://img.shields.io/badge/T--SQL-GROUP_BY_&_Functions-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="GROUP BY" style="vertical-align: middle;" />
-    </a>
-    — <strong>Aggregate functions, data grouping, and HAVING conditions.</strong>
-  </li>
-
-  <li>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="24" height="24" style="vertical-align: middle;" />
-    <a href="https://learn.microsoft.com/en-us/users/amantripathi-9458/achievements" target="_blank">
-      <img src="https://img.shields.io/badge/T--SQL-Modify_Data-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Modify Data" style="vertical-align: middle;" />
-    </a>
-    — <strong>INSERT, UPDATE, and DELETE operations across datasets.</strong>
-  </li>
-</ul>
-
+<table>
+  <thead>
+    <tr>
+      <th align="left">Course / Module</th>
+      <th align="center">Organization</th>
+      <th align="center">Completed</th>
+      <th align="center">Credentials</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Introduction to Transact-SQL</strong></td>
+      <td align="center"><img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft" /></td>
+      <td align="center">Oct 2026</td>
+      <td align="center"><a href="https://learn.microsoft.com/en-us/users/amantripathi-9458/achievements" target="_blank"><img src="https://img.shields.io/badge/Verify-Success-2ea44f?style=flat-square&logo=checkmarx" alt="Verified" /></a></td>
+    </tr>
+    <tr>
+      <td><strong>Sort and filter results in T-SQL</strong></td>
+      <td align="center"><img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft" /></td>
+      <td align="center">Oct 2026</td>
+      <td align="center"><a href="https://learn.microsoft.com/en-us/users/amantripathi-9458/achievements" target="_blank"><img src="https://img.shields.io/badge/Verify-Success-2ea44f?style=flat-square&logo=checkmarx" alt="Verified" /></a></td>
+    </tr>
+    <tr>
+      <td><strong>Combine multiple tables with JOINs in T-SQL</strong></td>
+      <td align="center"><img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft" /></td>
+      <td align="center">Oct 2026</td>
+      <td align="center"><a href="https://learn.microsoft.com/en-us/users/amantripathi-9458/achievements" target="_blank"><img src="https://img.shields.io/badge/Verify-Success-2ea44f?style=flat-square&logo=checkmarx" alt="Verified" /></a></td>
+    </tr>
+    <tr>
+      <td><strong>Write Subqueries in T-SQL</strong></td>
+      <td align="center"><img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft" /></td>
+      <td align="center">Oct 2026</td>
+      <td align="center"><a href="https://learn.microsoft.com/en-us/users/amantripathi-9458/achievements" target="_blank"><img src="https://img.shields.io/badge/Verify-Success-2ea44f?style=flat-square&logo=checkmarx" alt="Verified" /></a></td>
+    </tr>
+    <tr>
+      <td><strong>Use built-in functions and GROUP BY in Transact-SQL</strong></td>
+      <td align="center"><img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft" /></td>
+      <td align="center">Oct 2026</td>
+      <td align="center"><a href="https://learn.microsoft.com/en-us/users/amantripathi-9458/achievements" target="_blank"><img src="https://img.shields.io/badge/Verify-Success-2ea44f?style=flat-square&logo=checkmarx" alt="Verified" /></a></td>
+    </tr>
+    <tr>
+      <td><strong>Modify data with T-SQL</strong></td>
+      <td align="center"><img src="https://img.shields.io/badge/Microsoft-0078D4?style=flat&logo=microsoft&logoColor=white" alt="Microsoft" /></td>
+      <td align="center">Oct 2026</td>
+      <td align="center"><a href="https://learn.microsoft.com/en-us/users/amantripathi-9458/achievements" target="_blank"><img src="https://img.shields.io/badge/Verify-Success-2ea44f?style=flat-square&logo=checkmarx" alt="Verified" /></a></td>
+    </tr>
+  </tbody>
+</table>
 ## 📂 Key Projects
 *(As I build projects in my course, I will list them here)*
 - ⏳ *Project 1 coming soon...*
