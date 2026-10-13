@@ -290,5 +290,4 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
 <p align="left">
   💡 <b>Currently learning. Building consistently. Improving every day.</b>
 </p>
-<h1>👋 Hi, I'm Aman! <img src="<img width="848" height="1264" alt="e83618b0-f789-4c2d-b79e-8ac4078d10de" src="https://github.com/user-attachments/assets/ffefd309-eb2e-4330-9b55-ba5b959a8042" />
-" width="34" height="34" style="border-radius: 50%; vertical-align: middle;"></h1>
+<h1>👋 Hi, I'm Aman! <img src="https://github.com/user-attachments/assets/ffefd309-eb2e-4330-9b55-ba5b959a8042" width="34" height="34" style="border-radius: 50%; vertical-align: middle;"></h1>
