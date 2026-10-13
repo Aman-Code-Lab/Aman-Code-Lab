@@ -29,30 +29,109 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
 - 🎯 **Future Goals:** Pursuing B.Tech in AI/ML next year and aiming for Techno-Functional Leadership.
 
 <section id="technical-skills">
-  <h3>🛠️ Technical Skills</h3>
+  <h2>🛠️ Technical Skills & Tools</h2>
 
-  <!-- Languages -->
-  <p><strong>Languages</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  </p>
+  <!-- Programming & Query Languages -->
+  <h3>Languages</h3>
+  <ul>
+    <li>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      — AI, Machine Learning, and Data Science.
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+      — Databases and data management.
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
+      <em>(Elective / Secondary)</em> — Statistical computing and data analysis.
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+      — Web fundamentals and dashboard interfaces.
+    </li>
+  </ul>
 
   <!-- Libraries & Frameworks -->
-  <p><strong>Libraries & Frameworks</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  </p>
+  <h3>Libraries & Frameworks</h3>
+  <ul>
+    <li>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+      — Numerical operations and multidimensional arrays.
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+      — Data wrangling, cleaning, and tabular data analysis.
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+      <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" alt="Seaborn" />
+      — Exploratory data visualization and statistical charting.
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+      — Classical machine learning algorithms and predictive modeling.
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+      — Deep learning architectures and neural network training.
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+      — Computer vision and image processing pipelines.
+    </li>
+  </ul>
 
-  <!-- Tools & Platforms -->
-  <p><strong>Tools & Platforms</strong></p>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  </p>
+  <!-- Developer Tools & Platforms -->
+  <h3>Developer Tools & Environments</h3>
+  <ul>
+    <li>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+      — Interactive notebooks for prototyping code and experiments.
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab" />
+      — Cloud GPU/TPU acceleration for deep learning workflows.
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+      — Primary integrated development environment (IDE).
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      — Version control, branching workflows, and open-source collaboration.
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+      — CLI navigation, file management, and development runtime environments.
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+      — Dataset discovery, exploratory challenges, and benchmark testing.
+    </li>
+  </ul>
+
+  <!-- Data Management & BI Tools -->
+  <h3>Data Management & Business Intelligence</h3>
+  <ul>
+    <li>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+      — Relational database design and structured query execution.
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+      — Business reporting, interactive dashboards, and KPI analysis.
+    </li>
+    <li>
+      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+      — Quick data inspection, tabular analysis, and pivot summaries.
+    </li>
+  </ul>
 </section>
 
 
