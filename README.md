@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Aman!
 An aspiring AI & Machine Learning Engineer currently upskilling through the **iHUB IIT Roorkee & Intellipaat AI & Data Science Program**.
 
-## 🔗 Connect With Me
-[![LinkedIn Badge](https://shields.io)](https://www.linkedin.com/in/aman-tripathi-aa5960435)
+## 🔗 Connect With me 
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/aman-tripathi-aa5960435)
 [![Email Badge](https://shields.io)](amntripathi404@gmail.com)
 
 
