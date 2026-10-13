@@ -2,7 +2,6 @@
 An aspiring AI & Machine Learning Engineer currently upskilling through the **iHUB IIT Roorkee & Intellipaat AI & Data Science Program**.
 
 ## 🔗 Connect With Me
-### 🌐 NEON PRIVILEGE GATEWAYS
 <a href="YOUR_LINKEDIN_PROFILE_URL" target="_blank">
   <img src="https://shields.io" style="border-radius: 50%; width: 45px; height: 45px; object-fit: cover; margin-right: 10px;" alt="LinkedIn" />
 </a>
