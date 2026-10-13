@@ -5,10 +5,9 @@
     <td width="70%" valign="top">
       <h2>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" height="35" style="vertical-align: middle;" />
-        Hi, I'm Aman!<img src="https://github.com/user-attachments/assets/ffefd309-eb2e-4330-9b55-ba5b959a8042" width="34" height="34" style="border-radius: 50%; vertical-align: middle;">
-
-
-      </h2>
+        Hi, I'm Aman!    <img src="https://github.com/user-attachments/assets/ffefd309-eb2e-4330-9b55-ba5b959a8042" width="34" height="34" style="border-radius: 50%; vertical-align: middle;">
+  </h2>
+      
 An aspiring AI & Machine Learning Engineer currently upskilling through the **iHUB IIT Roorkee & Intellipaat AI & Data Science Program**.
 <h3>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" alt="🚀" />
