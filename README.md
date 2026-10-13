@@ -6,19 +6,19 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
 <h2 align="left">🔗 Connect With Me</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/aman-tripathi-aa5960435">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="amntripathi404@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/">
+  <a href="https://www.instagram.com/_is.that.aman_/">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/YOUR-PHONE-NUMBER">
+  <a href="https://wa.me/9214221981/">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" height="45" alt="WhatsApp"/>
   </a>
   &nbsp;&nbsp;
