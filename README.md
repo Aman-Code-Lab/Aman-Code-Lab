@@ -7,6 +7,7 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
   <a href="https://www.linkedin.com/in/aman-tripathi-aa5960435">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
   </a>
+  
   &nbsp;&nbsp;
   <a href="mailto:amntripathi404@gmail.com">
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
