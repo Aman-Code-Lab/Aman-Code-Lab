@@ -28,23 +28,28 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
 
 <table>
   <tr>
+    <!-- बायाँ हिस्सा (Details) -->
     <td width="65%" valign="top">
       <h2>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="30" height="30" style="vertical-align: middle;" />
         Hi, I'm Aman!
       </h2>
       <p>
-        Aspiring <strong>AI & Machine Learning Engineer</strong> crafting intelligent algorithms and wrangling high-dimensional datasets. Currently sharpening my technical stack via <strong>iHUB IIT Roorkee & Intellipaat</strong>.
+        An aspiring <strong>AI & Machine Learning Engineer</strong> on a mission to build intelligent systems and wrangle datasets. Currently leveling up my skills through the <strong>iHUB IIT Roorkee & Intellipaat</strong> program.
       </p>
       <ul>
-        <li>🚀 <strong>Focus:</strong> Core Python, Advanced SQL, EDA, and Applied ML.</li>
-        <li>🎯 <strong>Vision:</strong> B.Tech in AI/ML & Techno-Functional Leadership.</li>
-        <li>💡 <strong>Mindset:</strong> Break down complex problems, train smart models, build robust software.</li>
-        <li>📫 <strong>Connect:</strong> Open to collaborations on machine learning & data engineering projects!</li>
+        <li>🚀 <strong>Focus:</strong> Core Python, Advanced SQL, and Applied Machine Learning.</li>
+        <li>🎯 <strong>Goal:</strong> B.Tech in AI/ML next year & Techno-Functional Leadership.</li>
+        <li>💡 <strong>Mindset:</strong> Turning complex code into real-world AI projects.</li>
+        <li>🤝 <strong>Collaboration:</strong> Open to working on machine learning datasets and open-source tools.</li>
       </ul>
     </td>
+
+    <!-- दायाँ हिस्सा (Your Pic) -->
     <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/gist/scottydocs/150b077a988d55ff22e92c30f40d5885/raw/dev-3d.gif" alt="3D Developer Working" width="200" />
+      <div style="border-radius: 50%; overflow: hidden; width: 180px; height: 180px; border: 4px solid #6366f1; box-shadow: 0 10px 25px rgba(99, 102, 241, 0.4);">
+        <img src="https://your-image-url-here.jpg" alt="Aman" width="100%" height="100%" style="object-fit: cover;" />
+      </div>
     </td>
   </tr>
 </table>
