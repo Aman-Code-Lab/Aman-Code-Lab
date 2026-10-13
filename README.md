@@ -230,7 +230,63 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
     </tr>
   </tbody>
 </table>
-## 📂 Key Projects
-*(As I build projects in my course, I will list them here)*
-- ⏳ *Project 1 coming soon...*
-- 
+<h2 align="left">🚀 Key Projects</h2>
+
+<p align="left">
+  <i>Turning data into insights and ideas into intelligent solutions.</i>
+</p>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">🐍 Python Projects</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Python-Learning-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      </p>
+      <p align="left">
+        Building Python programs to strengthen programming fundamentals,
+        problem-solving, and automation skills.
+      </p>
+      <p align="left"><b>🚧 Projects in progress</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🗄️ SQL & Data Analysis</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/SQL-Learning-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      </p>
+      <p align="left">
+        Practicing SQL queries, JOINs, subqueries, data manipulation,
+        and relational database concepts.
+      </p>
+      <p align="left"><b>🚧 Projects in progress</b></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">📊 Data Science</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/Data-Analysis-20BEFF?style=for-the-badge&logo=databricks&logoColor=white" />
+      </p>
+      <p align="left">
+        Exploring data cleaning, exploratory data analysis,
+        visualization, and meaningful insights.
+      </p>
+      <p align="left"><b>🔜 Coming Soon</b></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">🤖 Machine Learning</h3>
+      <p align="left">
+        <img src="https://img.shields.io/badge/AI%20%26%20ML-Exploring-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      </p>
+      <p align="left">
+        Working toward predictive models, machine learning pipelines,
+        and intelligent applications.
+      </p>
+      <p align="left"><b>🔜 Coming Soon</b></p>
+    </td>
+  </tr>
+</table>
+
+<p align="left">
+  💡 <b>Currently learning. Building consistently. Improving every day.</b>
+</p>
