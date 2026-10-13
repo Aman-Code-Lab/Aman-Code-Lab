@@ -40,7 +40,7 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
 <table>
   <tr>
     <td width="50" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Robot.png" width="35" />
+      <[img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Robot.png" width="35"](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png) />
     </td>
     <td>
       <b>Current Focus</b><br/>
