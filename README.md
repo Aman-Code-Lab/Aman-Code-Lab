@@ -13,6 +13,35 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" alt="🚀" />
   About Me
 </h3>
+<table>
+  <tr>
+    <td width="50" align="center">
+      🐍
+    </td>
+    <td>
+      <b>Current Focus</b><br/>
+      Learning Core Python, Advanced SQL, and Applied Machine Learning.
+    </td>
+  </tr>
+  <tr>
+    <td width="50" align="center">
+      🧠
+    </td>
+    <td>
+      <b>Roadmap</b><br/>
+      Data Wrangling ➔ Machine Learning Pipelines ➔ Deep Learning & Model Deployment.
+    </td>
+  </tr>
+  <tr>
+    <td width="50" align="center">
+      🚀
+    </td>
+    <td>
+      <b>Future Goals</b><br/>
+      Pursuing B.Tech in AI/ML next year and aiming for Techno-Functional Leadership.
+    </td>
+  </tr>
+</table>
 
 <h2 align="left">🔗 Connect With Me</h2>
 &nbsp;&nbsp;
