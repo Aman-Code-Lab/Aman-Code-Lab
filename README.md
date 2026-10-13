@@ -28,10 +28,33 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
 - 🔭 **Current Focus:** Learning Core Python, Advanced SQL, and Applied Machine Learning.
 - 🎯 **Future Goals:** Pursuing B.Tech in AI/ML next year and aiming for Techno-Functional Leadership.
 
-## 🛠️ Technical Skills
-- **Languages:** Python, SQL
-- **Libraries:** Pandas, NumPy, Scikit-Learn
-- **Tools:** Jupyter Notebook, Git, GitHub
+<section id="technical-skills">
+  <h3>🛠️ Technical Skills</h3>
+
+  <!-- Languages -->
+  <p><strong>Languages</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  </p>
+
+  <!-- Libraries & Frameworks -->
+  <p><strong>Libraries & Frameworks</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  </p>
+
+  <!-- Tools & Platforms -->
+  <p><strong>Tools & Platforms</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  </p>
+</section>
+
 
 ## 📂 Key Projects
 *(As I build projects in my course, I will list them here)*
