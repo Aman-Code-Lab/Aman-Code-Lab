@@ -290,3 +290,4 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
 <p align="left">
   💡 <b>Currently learning. Building consistently. Improving every day.</b>
 </p>
+<h1>👋 Hi, I'm Aman! <img src="https://lh3.googleusercontent.com/..." width="34" height="34" style="border-radius: 50%; vertical-align: middle;"></h1>
