@@ -9,6 +9,10 @@
 
 
 An aspiring AI & Machine Learning Engineer currently upskilling through the **iHUB IIT Roorkee & Intellipaat AI & Data Science Program**.
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" alt="🚀" />
+  About Me
+</h3>
 
 <h2 align="left">🔗 Connect With Me</h2>
 &nbsp;&nbsp;
@@ -33,39 +37,6 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
     <img src="https://cdn.simpleicons.org/github/000000/FFFFFF" width="50" height="50" alt="GitHub"/>
   </a>
 </p>
-
-## ABOUT ME
-<h3>🚀 About Me</h3>
-
-<table>
-  <tr>
-    <td width="50" align="center">
-      <[img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Robot.png" width="35"](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png) />
-    </td>
-    <td>
-      <b>Current Focus</b><br/>
-      🐍 Learning Core Python, Advanced SQL, and Applied Machine Learning.
-    </td>
-  </tr>
-  <tr>
-    <td width="50" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="35" />
-    </td>
-    <td>
-      <b>Roadmap</b><br/>
-      📊 Data Wrangling ➔ 🤖 Machine Learning ➔ 🧠 Deep Learning & Model Deployment.
-    </td>
-  </tr>
-  <tr>
-    <td width="50" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Glowing%20Star.png" width="35" />
-    </td>
-    <td>
-      <b>Future Goals</b><br/>
-      🎓 Pursuing B.Tech in AI/ML next year and aiming for Techno-Functional Leadership.
-    </td>
-  </tr>
-</table>
 
 <section id="technical-skills">
   <h2>🛠️ Technical Skills & Tools</h2>
