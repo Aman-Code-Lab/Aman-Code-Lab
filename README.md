@@ -3,21 +3,29 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
 
 ## 🔗 Connect With me 
 
-
-<h1 align="left">🔗 Connect With Me</h1>
-
-<hr>
+<h2 align="left">🔗 Connect With Me</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aman-tripathi-aa5960435">
-    <img src="https://img.shields.io/badge/-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="60" height="60" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
-  <a href="amntripathi404@gmail.com">
-    <img src="https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="60" height="60" alt="Email"/>
+  <a href="mailto:YOUR-EMAIL@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" alt="Instagram"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://wa.me/YOUR-PHONE-NUMBER">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" height="45" alt="WhatsApp"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Aman-Code-Lab">
+    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" alt="GitHub"/>
   </a>
 </p>
-
 ## 🚀 About Me
 - 🔭 **Current Focus:** Learning Core Python, Advanced SQL, and Applied Machine Learning.
 - 🎯 **Future Goals:** Pursuing B.Tech in AI/ML next year and aiming for Techno-Functional Leadership.
