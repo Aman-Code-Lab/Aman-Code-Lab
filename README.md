@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Aman!
 An aspiring AI & Machine Learning Engineer currently upskilling through the **iHUB IIT Roorkee & Intellipaat AI & Data Science Program**.
-
 <h2 align="left">🔗 Connect With Me</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/aman-tripathi-aa5960435">
+  <a href="https://www.linkedin.com/in/aman-tripathi-aa5960435" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" height="50" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
@@ -12,16 +11,16 @@ An aspiring AI & Machine Learning Engineer currently upskilling through the **iH
     <img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" height="50" alt="Email"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_is.that.aman_/">
+  <a href="https://www.instagram.com/_is.that.aman_/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" height="50" alt="Instagram"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/919214221981">
+  <a href="https://wa.me/919214221981" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="50" height="50" alt="WhatsApp"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Aman-Code-Lab">
-    <img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" height="50" alt="GitHub"/>
+  <a href="https://github.com/Aman-Code-Lab" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/github/000000/FFFFFF" width="50" height="50" alt="GitHub"/>
   </a>
 </p>
 
